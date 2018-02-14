@@ -1,6 +1,10 @@
 # Zaif-mona_jpy
 zaifにおけるmona_jpyのレート表示ウィジェット
 
+## Usage
+zaif-mona_jpy.exeを実行
+
+
 ## Description
 electron製のデスクトップウィジェット
 
